@@ -3,7 +3,7 @@
 <h3>1llu50ry</h3>
 <p>
   <b>Security Researcher &amp; Low-Level Engineer</b><br>
-  <sub>x86_64 internals, binary hardening, hypervisors &amp; reverse engineering · leading research at <a href="https://github.com/immediate8">0xCD immediate8</a></sub>
+  <sub>x86_64 internals · binary hardening · hypervisors &amp; reverse engineering · leading research at <a href="https://github.com/immediate8">0xCD immediate8</a></sub>
 </p>
 
 <p>
@@ -18,7 +18,7 @@
 
 <br>
 
-## 💼 Work
+## Work
 
 <table>
   <tr>
@@ -31,7 +31,6 @@
       <h3>0xCD immediate8</h3>
       <p><sub>2026 - present · Security Research &amp; Binary Hardening</sub></p>
       <p>Research collective and engineering laboratory focused on low-level architecture: x86_64 binary analysis, hypervisor &amp; kernel-level primitives, proprietary code virtualization, anti-tamper countermeasures, and specialized reverse engineering tooling.</p>
-      <p><a href="https://github.com/immediate8">github.com/immediate8 &nbsp;↗</a></p>
     </td>
   </tr>
 </table>
@@ -55,7 +54,7 @@
         <img src="https://shieldcn.dev/header/glow.png?title=mcp-gamehacking&subtitle=MCP+server+for+game+hacking+%26+reverse+engineering&logo=typescript&theme=purple" alt="mcp-gamehacking" width="100%">
       </a>
       <p>
-        <a href="https://github.com/1llu50ry/mcp-gamehacking/stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/1llu50ry/mcp-gamehacking.svg?variant=secondary&font=geist&size=xs&mode=dark"><img alt="stars" src="https://shieldcn.dev/github/stars/1llu50ry/mcp-gamehacking.svg?variant=secondary&font=geist&size=xs&mode=light"></picture></a>
+        <a href="https://github.com/1llu50ry/mcp-gamehacking/stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/1llu50ry/mcp-gamehacking.svg?variant=secondary&font=geist&size=xs&mode=dark"></picture></a>
         <a href="https://github.com/1llu50ry/mcp-gamehacking/network/members"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/forks/1llu50ry/mcp-gamehacking.svg?variant=secondary&font=geist&size=xs&mode=dark"><img alt="forks" src="https://shieldcn.dev/github/forks/1llu50ry/mcp-gamehacking.svg?variant=secondary&font=geist&size=xs&mode=light"></picture></a>
         <br>
         MCP (Model Context Protocol) server for game hacking &amp; reverse engineering: 4,100+ skills knowledge base for Claude &amp; Cursor.
@@ -71,7 +70,7 @@
 
 <table>
   <tr>
-    <td width="35%"><a href="https://github.com/1llu50ry/SkeetSDK"><b>SkeetSDK</b></a> <a href="https://github.com/1llu50ry/SkeetSDK/stargazers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/github/stars/1llu50ry/SkeetSDK.svg?variant=secondary&font=geist&size=xs&mode=dark"><img alt="stars" src="https://shieldcn.dev/github/stars/1llu50ry/SkeetSDK.svg?variant=secondary&font=geist&size=xs&mode=light"></picture></a></td>
+    <td width="35%"><a href="https://github.com/1llu50ry/SkeetSDK"><b>SkeetSDK</a></td>
     <td width="65%">SDK for interaction with cheat skeet.cc for CS:GO: memory layout primitives, VScript bridge &amp; internal calling conventions.</td>
   </tr>
   <tr>
@@ -82,7 +81,7 @@
 
 </details>
 
-## 🔬 Research &amp; Focus
+## Research &amp; Focus
 
 <table>
   <tr>
@@ -103,7 +102,7 @@
   </tr>
 </table>
 
-## 🛠️ Stack
+## Stack
 
 <table>
   <tr>
@@ -111,6 +110,7 @@
     <td>
       <a href="https://en.cppreference.com/w/c"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/C.svg?variant=secondary&font=geist&logo=c&mode=dark"><img alt="C" src="https://shieldcn.dev/badge/C.svg?variant=secondary&font=geist&logo=c&mode=light"></picture></a>
       <a href="https://isocpp.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/C%2B%2B.svg?variant=secondary&font=geist&logo=cplusplus&mode=dark"><img alt="C++" src="https://shieldcn.dev/badge/C%2B%2B.svg?variant=secondary&font=geist&logo=cplusplus&mode=light"></picture></a>
+             <a href="https://rust-lang.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Rust.svg?variant=secondary&font=geist&logo=rust&mode=dark"><img alt="Rust" src="https://shieldcn.dev/badge/Rust.svg?variant=secondary&font=geist&logo=rust&mode=light"></picture></a>
       <a href="https://luajit.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Lua%20%2F%20LuaJIT.svg?variant=secondary&font=geist&logo=lua&mode=dark"><img alt="Lua / LuaJIT" src="https://shieldcn.dev/badge/Lua%20%2F%20LuaJIT.svg?variant=secondary&font=geist&logo=lua&mode=light"></picture></a>
       <a href="https://www.python.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Python.svg?variant=secondary&font=geist&logo=python&mode=dark"><img alt="Python" src="https://shieldcn.dev/badge/Python.svg?variant=secondary&font=geist&logo=python&mode=light"></picture></a>
     </td>
@@ -161,12 +161,9 @@
     </td>
   </tr>
 </table>
-
-<sub>Plus x86_64 assembly auditing, hypervisor development, binary hardening and kernel security.</sub>
-
 <br>
 
-## 📊 Activity
+## Activity
 
 <table>
   <tr>
