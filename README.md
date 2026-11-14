@@ -64,7 +64,7 @@
 </table>
 
 <details>
-<summary><b>Other projects &amp; research archives</b> <sub>Open Source</sub></summary>
+<summary><b>Other projects &amp; research archives</b></summary>
 
 <br>
 
