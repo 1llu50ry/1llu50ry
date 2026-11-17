@@ -18,23 +18,6 @@
 
 <br>
 
-## Work
-
-<table>
-  <tr>
-    <td width="24%" align="center" valign="middle">
-      <a href="https://github.com/immediate8">
-        <img src="https://avatars.githubusercontent.com/u/349223018?v=4" width="160" alt="0xCD immediate8 dragon logo">
-      </a>
-    </td>
-    <td width="76%" valign="top">
-      <h3>0xCD immediate8</h3>
-      <p><sub>2026 - present · Security Research &amp; Binary Hardening</sub></p>
-      <p>Research collective and engineering laboratory focused on low-level architecture: x86_64 binary analysis, hypervisor &amp; kernel-level primitives, proprietary code virtualization, anti-tamper countermeasures, and specialized reverse engineering tooling.</p>
-    </td>
-  </tr>
-</table>
-
 ### Software &amp; Tooling
 
 <table>
